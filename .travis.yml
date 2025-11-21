@@ -1,7 +1,7 @@
 os: linux
 language: generic
-dist: 2111-Containers-Windows-LongName
+dist: 2111-Containers-Windows-LongName-Test
 
 vm:
   create:
-    name: name_2111
+    name: long_image_name_2111_123456789
