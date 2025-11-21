@@ -4,4 +4,4 @@ dist: 1809-Containers-Windows-LongName-Test
 
 vm:
   create:
-    name: long_image_name2_123456789
+    name: long_image_name2111_123456789
